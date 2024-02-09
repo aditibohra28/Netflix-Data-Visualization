@@ -1,9 +1,33 @@
+FIRST VISUALISATION (MAP)
 - Symbol maps in Tableau display data points as symbols on a map, with each symbol representing a specific location or data point. Symbol maps are effective for 
 visualizing geographical data and patterns, enhancing data analysis and insights.
 - So, first we visualized the most preferred category of NETFLIX shows created by each country using Symbol map. 
 - And observed that india used to release 2000+ TV thriller shows maximum.
 
 https://public.tableau.com/shared/YJ9WB7S6F?:display_count=n&:origin=viz_share_link
+
+SECOND VISUALISATION (GRAPH)
+- A line graph in Tableau displays data points connected by lines, illustrating trends and patterns over time or across categories. It's effective for visualizing 
+continuous data and identifying changes or relationships in the dataset.
+- 
+
+https://public.tableau.com/shared/9H2SCHMBB?:display_count=n&:origin=viz_share_link
+
+THIRD VISUALISATION (GRAPH)
+- In Tableau, a vertical bar graph represents data with vertical bars where the length of each bar corresponds to the value of a specific measure, facilitating 
+easy comparison among categories or groups within a dataset.
+- 
+
+https://public.tableau.com/shared/T5RTWHD9W?:display_count=n&:origin=viz_share_link
+
+
+
+
+
+ 
+
+
+
 
 
 
