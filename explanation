@@ -26,7 +26,11 @@ FOURTH VISUALISATION (GRAPH)
 
 - A horizontal bar graph in Tableau is a visual representation where categories are displayed along the y-axis and corresponding values are represented by horizontal
 bars. It's effective for comparing data across categories and identifying trends or patterns visually.
-- 
+- In final chart we represented comparison of cast members corresponding to the count of NETFLIX shows using horizontal bar graph. 
+Basically it tells actors that are casted in max no.of shows.
+
+→ Means we can create more netflix shows with these actors as they are most promising actors in terms of delivering the content or we can also consider them more 
+to attract more viewers towards the show.
 
 https://public.tableau.com/shared/HRQDR22NX?:display_count=n&:origin=viz_share_link
 
