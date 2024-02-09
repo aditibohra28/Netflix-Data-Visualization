@@ -1,8 +1,10 @@
-Symbol maps in Tableau display data points as symbols on a map, with each symbol representing a specific location or data point. Symbol maps are effective for visualizing geographical data and patterns,
-enhancing data analysis and insights.
+- Symbol maps in Tableau display data points as symbols on a map, with each symbol representing a specific location or data point. Symbol maps are effective for 
+visualizing geographical data and patterns, enhancing data analysis and insights.
+- So, first we visualized the most preferred category of NETFLIX shows created by each country using Symbol map. 
+- And observed that india used to release 2000+ TV thriller shows maximum.
 
-So, first we visualized the most preferred category of NETFLIX shows created by each country using Symbol map. 
-And observed that india used to release 2000+ TV thriller shows maximum.
+https://public.tableau.com/shared/YJ9WB7S6F?:display_count=n&:origin=viz_share_link
+
 
 
 
